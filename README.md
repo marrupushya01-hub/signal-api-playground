@@ -146,5 +146,5 @@ MIT — free to use, modify, and distribute.
 ---
 
 <div align="center">
-Made with ⚡ by Team Signal
+Made with ⚡ by Team The Byte Alchemists
 </div>
