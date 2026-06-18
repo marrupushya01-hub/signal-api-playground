@@ -37,7 +37,7 @@ Think of it as a lightweight API testing tool with a clean radar-themed UI. Send
 |---|---|
 | 🔵 **HTTP Methods** | GET, POST, PUT, PATCH, DELETE |
 | 📋 **Headers & Params** | Add custom headers and query params with a visual editor |
-| 🔐 **Auth Panel** | Bearer Token, Basic Auth, API Key — auto-injected into requests |
+| 🔐 **Auth Panel** | Bearer Token, Basic Auth, API Key - auto-injected into requests |
 | 📦 **Body Editor** | JSON editor with validate, beautify, and minify |
 | 🌐 **GraphQL Mode** | Query + variables editor with auto Content-Type |
 | 🎭 **Mock Mode** | Return a fake response without hitting a real server |
@@ -62,11 +62,11 @@ Think of it as a lightweight API testing tool with a clean radar-themed UI. Send
 
 ## 🛠️ Tech Stack
 
-- **React 18** + **Vite** — fast dev server and build
-- **Tailwind CSS** — utility-first styling
-- **Native Fetch API** — zero dependency networking
-- **localStorage** — persistent history, collections, env vars, and theme
-- **Vercel** — zero-config static deployment
+- **React 18** + **Vite** - fast dev server and build
+- **Tailwind CSS** - utility-first styling
+- **Native Fetch API** - zero dependency networking
+- **localStorage** - persistent history, collections, env vars, and theme
+- **Vercel** - zero-config static deployment
 
 ---
 
@@ -123,7 +123,7 @@ src/
 
 ## ⚠️ Known Limitations
 
-**CORS** — Some APIs block browser-based requests unless they set CORS headers. This is a browser security restriction, not a bug in Signal. To test such APIs locally, you can use a CORS proxy or test APIs that allow browser access (like `jsonplaceholder.typicode.com`).
+**CORS** - Some APIs block browser-based requests unless they set CORS headers. This is a browser security restriction, not a bug in Signal. To test such APIs locally, you can use a CORS proxy or test APIs that allow browser access (like `jsonplaceholder.typicode.com`).
 
 ---
 
